@@ -1,16 +1,11 @@
 # Lagrange Piscine 🏊
 
-A phone-first **Progressive Web App (PWA)** to organise seasonal pool-maintenance
-work across the Lagrange Vacances residences in **Lacanau-Océan**.
+A phone-first **Progressive Web App (PWA)** to organise seasonal pool-maintenance.
 
 It tracks, per pool:
 
 - **Chemistry** — pH, free chlorine, stabilizer (CYA), temperature — logged over
   time with in-range / out-of-range flags.
-- **Occupancy** — the Saturday rental turnover cycle (who arrives, who's staying,
-  owners, closed units), so you know which pools must be pristine for arrivals and
-  which need mid-week cycling.
-- **Location** — one tap to open each residence in Google Maps for directions.
 
 No server, no account, no monthly cost. All data lives **on your phone** (browser
 local storage) and works **offline**. Export/import JSON for backup.
